@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   key, value = nil, nil
-  name_hash.each {
+  name_hash.each { |k, v|
     
   }
 end
